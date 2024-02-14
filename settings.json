@@ -1,0 +1,37 @@
+{
+    "sync.gist": "33aa4d78e2619698f41b15a232d4eb0d",
+    "workbench.iconTheme": "symbols",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "npm.keybindingsChangedWarningShown": true,
+    "workbench.colorTheme": "Hack The Box",
+    "workbench.startupEditor": "newUntitledFile",
+    "git.confirmSync": false,
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.env.windows": {},
+    "nxConsole.showNodeVersionOnStartup": false,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "explorer.compactFolders": false,
+    "symbols.hidesExplorerArrows": false,
+    "vscode-pets.throwBallWithMouse": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "yaml.schemas": {
+        "file:///c%3A/Users/DESENV03/.vscode/extensions/atlassian.atlascode-3.0.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },    
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
