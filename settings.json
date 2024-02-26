@@ -1,20 +1,22 @@
 {
-    "sync.gist": "33aa4d78e2619698f41b15a232d4eb0d",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Hack The Box",
+    "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.minimap.renderCharacters": false,
+    "editor.fontSize": 14,
     "editor.minimap.enabled": false,
     "npm.keybindingsChangedWarningShown": true,
-    "workbench.colorTheme": "Hack The Box",
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "editor.semanticHighlighting.enabled": false,
     "git.confirmSync": false,
     "git.openRepositoryInParentFolders": "never",
     "terminal.integrated.env.windows": {},
-    "nxConsole.showNodeVersionOnStartup": false,
-    "files.autoSave": "afterDelay",
-    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",    
     "explorer.compactFolders": false,
-    "symbols.hidesExplorerArrows": false,
-    "vscode-pets.throwBallWithMouse": true,
+    "editor.mouseWheelZoom": true,
+    "explorer.confirmDelete": false,
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -23,9 +25,6 @@
     },
     "[html]": {
         "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "yaml.schemas": {
-        "file:///c%3A/Users/DESENV03/.vscode/extensions/atlassian.atlascode-3.0.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
     },    
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -33,5 +32,5 @@
 
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+    }    
 }
