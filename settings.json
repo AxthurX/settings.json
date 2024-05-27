@@ -13,6 +13,7 @@
     "git.confirmSync": false,
     "git.openRepositoryInParentFolders": "never",
     "terminal.integrated.env.windows": {},
+    "terminal.integrated.env.linux": {},
     "files.autoSave": "afterDelay",    
     "explorer.compactFolders": false,
     "editor.mouseWheelZoom": true,
