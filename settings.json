@@ -17,6 +17,7 @@
     "explorer.compactFolders": false,
     "editor.mouseWheelZoom": true,
     "explorer.confirmDelete": false,
+    "window.titleBarStyle": "custom"
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
