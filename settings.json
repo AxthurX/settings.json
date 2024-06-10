@@ -1,8 +1,7 @@
 {
-    "window.zoomLevel": 1,
-    "workbench.colorTheme": "Vesper ++",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
+    "window.titleBarStyle": "custom",
     "editor.minimap.renderCharacters": false,
     "editor.fontSize": 14,
     "editor.minimap.enabled": false,
@@ -10,15 +9,19 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.editor.labelFormat": "short",
     "editor.semanticHighlighting.enabled": false,
+    "workbench.colorTheme": "Hack The Box",
+    "terminal.integrated.env.linux": {},
     "git.confirmSync": false,
     "git.openRepositoryInParentFolders": "never",
-    "terminal.integrated.env.windows": {},
-    "terminal.integrated.env.linux": {},
-    "files.autoSave": "afterDelay",    
+    "terminal.integrated.env.windows": {},    
     "explorer.compactFolders": false,
     "editor.mouseWheelZoom": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "explorer.confirmDelete": false,
-    "window.titleBarStyle": "custom"
+    "console-ninja.featureSet": "Community",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -31,8 +34,10 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }    
+    },  
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },  
 }
