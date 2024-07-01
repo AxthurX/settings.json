@@ -11,8 +11,8 @@
   "editor.minimap.renderCharacters": false,
   "editor.semanticHighlighting.enabled": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll": false,
-    "source.organizeImports": true
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
   },
   "files.trimTrailingWhitespace": true,
   "workbench.iconTheme": "symbols",
